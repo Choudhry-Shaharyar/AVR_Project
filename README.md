@@ -1,6 +1,6 @@
 # (AVR programming) Digital_Input_Project 
 
-## Components list
+## Components list:
 - SNAP Debugger PG164100
 - Seeedstudio Grove beginner board (ATMEGA328p)	
 - MPLAB X IDE
