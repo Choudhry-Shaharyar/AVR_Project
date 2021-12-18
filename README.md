@@ -12,4 +12,4 @@ Manipulates the ports, pins, and registers to display an ouput on demand.\
 The SNAP debugger will allow communication to occur between your code and ATMEGA328p.
 
 ## Function:
-As you press down on the built in button of your grove board, you will see the red LED turn on.\
+As you press down on the built in button of your grove board, you will see the red LED turn on.
